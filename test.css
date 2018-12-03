@@ -1,0 +1,44 @@
+#body{
+	background-color:white;
+}
+#h01{
+	color:rgb(230,124,210,0.85);
+	font-size: 60px;
+	text-align: center;
+}
+#login{
+	font-size: 25px;
+	font-style: italic;
+	color: black;
+}
+#register{
+	font-size: 25px;
+	font-style: italic;
+	color: black;
+}
+
+
+
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+}
